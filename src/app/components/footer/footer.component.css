@@ -1,0 +1,18 @@
+.listcity ul li{
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+.city h3{
+    margin-bottom: 25px !important;
+}
+.fa-instagram:before {
+   
+    margin: 0px 10px;
+}
+
+a {
+    text-decoration: none;
+}
+.footer-list{
+    background-color: #fdf6f2;
+}
